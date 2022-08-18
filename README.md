@@ -13,9 +13,10 @@
 
 <hr />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ametsmsek&layout=compact&theme=radical" />
-</a>
+<div align="center"
+  <p href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ametsmsek&layout=compact&theme=radical" />
+  </p>
 </div>
 
 
