@@ -28,7 +28,7 @@
 
 <div align="center" style="border_radius: 48"
   <p href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ametsmsek&layout=compact&theme=nightowl&border_radius=12&title_color=9175F9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ametsmsek&layout=compact&theme=nightowl&border_radius=12&title_color=9175F9&border_color=61CEEA" />
   </p>
 </div>
 
