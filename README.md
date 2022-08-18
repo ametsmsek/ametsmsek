@@ -4,7 +4,7 @@
 </h1>
 
 
-<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=36&duration=3000&pause=1000&color=6836F5&center=true&vCenter=true&width=900&height=72&lines=Hello%2C+I'm+Ahmet+Simsek;Webflow+%26+Newborn+Front-end+Developer" alt="Typing SVG" /></p>
+<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=36&duration=3000&pause=1000&color=9175F9&center=true&vCenter=true&width=900&height=72&lines=Hello%2C+I'm+Ahmet+Simsek;Webflow+%26+Newborn+Front-end+Developer" alt="Typing SVG" /></p>
 
 
 <h1 align="center">
@@ -14,10 +14,10 @@
 <div align="center">
   <div align="center">
 <a href="https://github.com/ametsmsek/github-profile-views-counter">
-    <img align="center" src="https://komarev.com/ghpvc/?username=ametsmsek&color=6836F5FF">
+    <img align="center" src="https://komarev.com/ghpvc/?username=ametsmsek&color=9175F9">
 </a>
 <a href="https://github.com/ametsmsek?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/ametsmsek?style=flat-square&color=6836F5FF">
+    <img align="center"  src="https://img.shields.io/github/followers/ametsmsek?style=flat-square&color=9175F9">
 </a>
   </div>
 
