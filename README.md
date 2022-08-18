@@ -7,9 +7,9 @@
 <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=48&duration=3000&pause=1000&color=6836F5&center=true&vCenter=true&width=900&margin=24&height=72&lines=Hello%2C+I'm+Ahmet+Simsek;Webflow+%26+Newborn+Front-end+Developer" alt="Typing SVG" /></p>
 
 
-<div align="center">
+<h1 align="center">
 <img src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif">
-</div>
+</h1>
 
 <!--<hr />
 <div align="center">
