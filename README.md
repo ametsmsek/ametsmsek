@@ -3,19 +3,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Merve+Karabulut;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+</p>
+
+<p href="https://git.io/typing-svg"><img style="line-height: 1.5"src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=48&duration=3000&pause=1000&color=6836F5&center=true&vCenter=true&multiline=true&width=1200&height=144&lines=Hello%2C+I'm+Ahmet+Simsek;Webflow+Developer+%26+Newborn+Front-end+Developer" alt="Typing SVG" /></p>
 
 
-<p align="center" line-height: 1.5; href="https://git.io/typing-svg"><img style="line-height: 1.6;" src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=48&duration=3000&pause=1000&color=6836F5&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+I'm+Ahmet+Simsek;Webflow+Developer+%26+Newborn+Front-end+Developer" alt="Typing SVG" /></p>
-
-<!--
 <div align="center">
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpin.anime.com%2Fwp-content%2Fuploads%2F2015%2F07%2FLuna-is-a-talking-cat-advisor-to-Usagi-Tsukino-and-a-computer-genius-sailor-moon-animated-gif.gif&f=1&nofb=1">
 </div>
--->
+
 
 
  <!--Statistics-->
- <!--
 <div align="center">
   <div align="center">
 <a href="https://github.com/mervekrblt/github-profile-views-counter">
@@ -36,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mervekrblt&show_icons=true&theme=radical" />
 </a>-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ametsmsek&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervekrblt&layout=compact&theme=radical" />
 </a>
 </div>
 
@@ -55,5 +56,5 @@
         </tr>
 </table>
 
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mervekrblt&theme=xcode" /></div>
-<div  align="center"> <img src="https://github.com/mervekrblt/mervekrblt/blob/output/github-contribution-grid-snake.svg" /></div>-->
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mervekrblt&theme=xcode" /></div>-->
+<div  align="center"> <img src="https://github.com/mervekrblt/mervekrblt/blob/output/github-contribution-grid-snake.svg" /></div>
