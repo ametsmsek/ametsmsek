@@ -26,7 +26,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ametsmsek&show_icons=true&theme=radical" />
 </div>-->
 
-<div align="center"
+<div align="center" style="border_radius: 12px"
   <p href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ametsmsek&layout=compact&theme=radical" />
   </p>
