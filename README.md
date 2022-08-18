@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <div align="center">
+  <div style="border-radius:4 overflow: hidden" align="center">
     <p href="https://github.com/ametsmsek/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=ametsmsek&color=f75c7e">
     </p>
