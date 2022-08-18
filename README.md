@@ -21,11 +21,11 @@
 <a href="https://github.com/ametsmsek?tab=followers">
     <img align="center"  src="https://img.shields.io/github/followers/ametsmsek?style=flat-square&color=f75c7e">
 </a>
-  </div>-->
+  </div>
 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ametsmsek&show_icons=true&theme=radical" />
-</div>
+</div>-->
 
 <div align="center"
   <p href="https://github.com/anuraghazra/github-readme-stats">
