@@ -17,7 +17,7 @@
     <img align="center" src="https://komarev.com/ghpvc/?username=ametsmsek&color=9175F9">
 </a>
 <a href="https://github.com/ametsmsek?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/ametsmsek?style=flat-square&color=9175F9">
+    <img align="center"  src="https://img.shields.io/github/followers/ametsmsek?style=flat-square&color=9175F9&border-radius=4">
 </a>
   </div>
 
