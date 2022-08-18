@@ -12,6 +12,19 @@
 </div>
 
 <hr />
+<div align="center">
+  <div align="center">
+<a href="https://github.com/ametsmsek/github-profile-views-counter">
+    <img align="center" src="https://komarev.com/ghpvc/?username=ametsmsek&color=f75c7e">
+</a>
+<a href="https://github.com/ametsmsek?tab=followers">
+    <img align="center"  src="https://img.shields.io/github/followers/ametsmsek?style=flat-square&color=f75c7e">
+</a>
+  </div>
+
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ametsmsek&show_icons=true&theme=radical" />
+</div>
 
 <div align="center"
   <p href="https://github.com/anuraghazra/github-readme-stats">
