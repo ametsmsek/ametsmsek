@@ -8,7 +8,7 @@
 <p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=48&duration=3000&pause=1000&color=6836F5&center=true&vCenter=true&width=1200&height=72&lines=Hello%2C+I'm+Ahmet+Simsek;Webflow+Developer+%26+Newborn+Front-end+Developer" alt="Typing SVG" /></p>
 
 <div align="center">
-<img src="[https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpin.anime.com%2Fwp-content%2Fuploads%2F2015%2F07%2FLuna-is-a-talking-cat-advisor-to-Usagi-Tsukino-and-a-computer-genius-sailor-moon-animated-gif.gif&f=1&nofb=1](https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif)">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpin.anime.com%2Fwp-content%2Fuploads%2F2015%2F07%2FLuna-is-a-talking-cat-advisor-to-Usagi-Tsukino-and-a-computer-genius-sailor-moon-animated-gif.gif&f=1&nofb=1](https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif)">
 </div>
 
 
