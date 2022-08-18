@@ -11,9 +11,6 @@
 <img src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif">
 </div>
 
-
-<h1 align="center">
-</h1>
 <!--<hr />
 <div align="center">
   <div align="center">
