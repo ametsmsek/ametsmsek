@@ -11,7 +11,7 @@
 <img src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif">
 </h1>
 
-<!--<hr />
+
 <div align="center">
   <div align="center">
 <a href="https://github.com/ametsmsek/github-profile-views-counter">
@@ -21,7 +21,7 @@
     <img align="center"  src="https://img.shields.io/github/followers/ametsmsek?style=flat-square&color=f75c7e">
 </a>
   </div>
-
+<!--<hr />
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ametsmsek&show_icons=true&theme=radical" />
 </div>-->
