@@ -12,15 +12,13 @@
 </h1>
 
 
-<div style="border-radius:4 , overflow: hidden"  align="center">
-  <div style="border-radius:4 , overflow: hidden" align="center">
+<div align="center">
     <p href="https://github.com/ametsmsek/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=ametsmsek&color=f75c7e">
     </p>
     <p href="https://github.com/ametsmsek?tab=followers">
         <img align="center"  src="https://img.shields.io/github/followers/ametsmsek?style=flat-square&color=f75c7e">
     </p>
-  </div>
 </div>
 <!--<hr />
 <div>
