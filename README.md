@@ -12,7 +12,7 @@
 </h1>
 
 
-<div align="center">
+<div style="display:flex" align="center">
     <p href="https://github.com/ametsmsek/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=ametsmsek&color=f75c7e">
     </p>
